@@ -1,0 +1,7 @@
+{
+  "name": "lista-de-peliculas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
