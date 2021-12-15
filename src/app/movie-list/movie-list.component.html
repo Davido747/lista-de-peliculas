@@ -1,0 +1,5 @@
+<ion-item *ngIf="movie" [routerLink]="'/movie-view/'" [detail]="false" button (click)="setMovie()">
+  <ion-label>
+    {{ movie.Title }}
+  </ion-label>
+</ion-item>
